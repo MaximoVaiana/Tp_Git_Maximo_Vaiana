@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - platform
+  - item
+  - Spike
+  - Victory
   layers:
   - Default
   - TransparentFX
